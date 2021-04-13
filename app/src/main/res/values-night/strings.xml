@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieBag</string>
+    <string name="movie_title">Movie:</string>
+    <string name="rating_title">Vote Average:</string>
+    <string name="language_title">Language:</string>
+    <string name="released_on_title">Released on:</string>
+    <string name="not_available">N/A</string>
+    <string name="cast">Cast</string>
+    <string name="reviews">Reviews</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="popularity_title">Popularity:</string>
+    <string name="release_status_title">Release Status:</string>
+    <string name="overview">OverView</string>
+    <string name="try_again">Try Again</string>
+</resources>
