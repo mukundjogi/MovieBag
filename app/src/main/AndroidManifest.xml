@@ -12,11 +12,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MovieApp">
-        <activity android:name=".ui.moviecast.MovieCastActivity" />
-        <activity android:name=".ui.moviereview.MovieReviewActivity" />
-        <activity android:name=".ui.moviedetail.MovieDetailActivity" />
-        <activity android:name=".ui.dashbaordmain.DashboardActivity" />
-        <activity android:name=".ui.dashbaordmain.SplashActivity"
+        <activity
+            android:name=".ui.moviecast.MovieCastActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.moviereview.MovieReviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.moviedetail.MovieDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.dashbaordmain.DashboardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.dashbaordmain.SplashActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.Design.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
