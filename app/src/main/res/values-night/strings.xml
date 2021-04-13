@@ -12,6 +12,6 @@
     <string name="similar_movies">Similar Movies</string>
     <string name="popularity_title">Popularity:</string>
     <string name="release_status_title">Release Status:</string>
-    <string name="overview">OverView</string>
+    <string name="overview">Overview</string>
     <string name="try_again">Try Again</string>
 </resources>
